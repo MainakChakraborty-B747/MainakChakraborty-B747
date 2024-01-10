@@ -7,6 +7,5 @@
 <li>✅Working Knowledge of Excel, PowerPoint, Word</li></h3>
 </ol>
 <h2><b>Connect With Me👉🏽:</b></h2>
-<a href="www.github.com/MainakChakraborty-B747" >GitHub</a><br>
-<a href="www.linkedin.com/in/mainakchakraborty1999">LinkedIn</a><br>
-<h4>Email: itsmine7879@gmail.com</h4>
+<p><b>LinkedIn:</b> mainakchakraborty1999</p><br>
+<p><b>Email:</b> itsmine7879@gmail.com</p>
