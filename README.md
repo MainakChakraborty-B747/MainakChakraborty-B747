@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**MainakChakraborty-B747/MainakChakraborty-B747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hello Everyone 👋🏽</h1>
+<h3>I am Mainak Chakraborty😎.<br> I am a passionate computer learner(kind of a tech enthusiast). </h3>
+<h2><b> My Skills✅</b></h2>
+<ol><h3>
+<li>✅Basic Computer Operations</li>
+<li>✅Knowledge of Python(Beginner Level)</li>
+<li>✅Working Knowledge of Excel, PowerPoint, Word</li></h3>
+</ol>
+<h2><b>Connect With Me👉🏽:</b></h2>
+<a href="www.github.com/MainakChakraborty-B747" >GitHub</a><br>
+<a href="www.linkedin.com/in/mainakchakraborty1999">LinkedIn</a><br>
+<h4>Email: itsmine7879@gmail.com</h4>
