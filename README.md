@@ -1,6 +1,6 @@
 ## Hello Guys,
 **I am Mainak Chakraborty.**
-**A tech enthusiast.**
+**Just learning some coding....**
 
 ## Connect With Me:
 👉🏽[LinkedIn](https://www.linkedin.com/in/mainakchakraborty1999/)
